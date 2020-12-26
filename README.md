@@ -30,8 +30,8 @@ Book Search Engine allows users to search for books and recieve further informat
 * Mongoose
 * Express
 
-  ## Contributors
-  Joseph DeFelice
+## Contributors
+Joseph DeFelice
 
-  ## Contact
-  If you have any questions, contact the author directly at defelicejoseph@outlook.com.
+## Contact
+If you have any questions, contact the author directly at defelicejoseph@outlook.com.
