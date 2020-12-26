@@ -5,12 +5,6 @@ Book Search Engine allows users to search for books and recieve further informat
 
   ##
   ![](client/src/assets/books.jpg)
-  
-  ## Installation
-  Clone repo and run:
-  ```
-  npm i
-  ```
 
   ## Usage
   Navigate to root directory and run:
